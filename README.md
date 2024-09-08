@@ -1,9 +1,24 @@
-# React + Vite
+# Todo List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React's Todo List
 
-Currently, two official plugins are available:
+This todo list is build on reactjs along with the tailwindcss utility first CSS framework, which provides the user to add, update and delete task.
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Todo_List
+- Add
+- Update
+- Delete
+
+
+## Tech Stack
+
+- React
+- Javascript
+- Tailwindcss
+
+
+## Screenshots
+![Todo List](https://github.com/user-attachments/assets/025f7b7b-7e2a-41a7-8760-b507aebfc652)
+
+
+
